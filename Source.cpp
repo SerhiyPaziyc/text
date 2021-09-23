@@ -3,6 +3,7 @@
 // Лабораторна робота № 2.
 // Лінійні програми.
 // Варіант 9
+// heloy world
 #include <iostream>
 #include <cmath>
 using namespace std;
