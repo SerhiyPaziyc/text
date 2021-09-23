@@ -4,6 +4,7 @@
 // Лінійні програми.
 // Варіант 9
 // heloy world
+//tbib
 #include <iostream>
 #include <cmath>
 using namespace std;
